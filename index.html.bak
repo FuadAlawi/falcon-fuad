@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Home Default || Falcon - Fuad Personal Portfolio </title>
+    <meta name="robots" content="noindex, follow">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  
+    <!-- CSS 
+    ============================================ -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/feature.css">
+    <!-- Style css -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body class="template-color-1 spybody" data-spy="scroll" data-target=".navbar-example2"
+
+    data-offset="70">
+    <!-- Start Header -->
+    <header class="rn-header haeder-default black-logo-version header--fixed header--sticky">
+      <div class="header-wrapper rn-popup-mobile-menu m--0 row align-items-center">
+        <!-- Start Header Left -->
+        <div class="col-lg-2 col-6">
+          <div class="header-left">
+            <div class="logo"> <a href="index.html"> <img src="images/SAUDI%20ARABIA.png"
+
+                  alt="logo" style="top: 19px; height: 98px; left: 30px; width: 84px;">
+              </a> </div>
+          </div>
+        </div>
+        <!-- End Header Left -->
+        <!-- Start Header Center -->
+        <div class="col-lg-10 col-6">
+          <div class="header-center">
+            <nav id="sideNav" class="mainmenu-nav navbar-example2 d-none d-xl-block onepagenav">
+              <!-- Start Mainmanu Nav -->
+              <ul class="primary-menu nav nav-pills">
+                <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#portfolio">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    Portfolio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
+                <li class="nav-item"><a class="nav-link" href="#resume">&nbsp;
+                    Resume</a></li>
+                <li class="nav-item"><a class="nav-link" href="#contacts">&nbsp;
+                    Contact&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  </a></li>
+              </ul>
+              <!-- End Mainmanu Nav --> </nav>
+            <!-- Start Header Right  -->
+            <div class="header-right"> <br>
+              <div class="hamberger-menu d-block d-xl-none"> </div>
+              <div class="close-menu d-block"> <span class="closeTrigger"> </span>
+              </div>
+            </div>
+            <!-- End Header Right  --> </div>
+        </div>
+        <!-- End Header Center --> </div>
+    </header>
+    <!-- End Header Area -->
+    <!-- Start Popup Mobile Menu  -->
+    <div class="popup-mobile-menu">
+      <div class="inner">
+        <div class="menu-top">
+          <div class="menu-header"> <a class="logo" href="index.html"> <img src="images/logos-circle.png"
+
+                alt="Personal Portfolio"> </a>
+            <div class="close-button"> <button class="close-menu-activation close"><i
+
+                  data-feather="x"></i></button> </div>
+          </div>
+          <p class="discription"> personal portfolio . 
+            .</p>
+        </div>
+        <div class="content">
+          <ul class="primary-menu nav nav-pills onepagenav">
+            <li class="nav-item current"><a class="nav-link smoth-animation active"
+
+                href="#home">Home</a></li>
+            <li class="nav-item"><a class="nav-link smoth-animation" href="#portfolio">Portfolio</a></li>
+            <li class="nav-item"><a class="nav-link smoth-animation" href="#resume">Resume</a></li>
+            <li class="nav-item"><a class="nav-link smoth-animation" href="#contacts">Contact</a></li>
+          </ul>
+          <!-- social sharea area -->
+          <!-- end --> </div>
+      </div>
+    </div>
+    <!-- End Popup Mobile Menu  -->
+    <main class="main-page-wrapper">
+      <!-- Start Slider Area -->
+      <div id="home" class="rn-slider-area">
+        <div class="slide slider-style-1">
+          <div class="container">
+            <div class="row row--30 align-items-center">
+              <div class="order-2 order-lg-1 col-lg-7 mt_md--50 mt_sm--50 mt_lg--30">
+                <div class="content">
+                  <div class="inner"> <span class="subtitle">Welcome to my
+                      world</span>
+                    <h1 class="title">Hala, I’m <span>Fuad</span><br>
+                      <span class="header-caption" id="page-top">
+                        <!-- type headline start--> <span class="cd-headline clip is-full-width">
+                          <span>a </span>
+                          <!-- ROTATING TEXT --> <span class="cd-words-wrapper">
+                            <b class="is-visible">Sophomore IT Student.</b> <b
+
+                              class="is-hidden"> Network Pen Tester.</b> <b class="is-hidden">Coder.</b>
+                            <b class="is-hidden">Designer.</b> </span> </span>
+                        <!-- type headline end --> </span> </h1>
+                    <div>
+                      <p class="description">IT student with a strong foundation
+                        in networking, programming, and cybersecurity.&nbsp;
+                        hands-on experience in programming languages, networking
+                        protocols, and cybersecurity measures.</p>
+                    </div>
+                  </div>
+                  <div class="row"><br>
+                    <div class="col-lg-6 col-xl-6 col-md-6 col-sm-6 col-12 mt_mobile--30">
+                      <div class="skill-share-inner"> <span class="title">best
+                          skill on</span>
+                        <ul class="skill-share d-flex liststyle">
+                          <li><img src="images/Nmap.png" alt="Icons Images"></li>
+                          <li><img src="images/Python.png" alt="Icons Images"></li>
+                          <li><img src="images/icons-03.png" alt="Icons Images"></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="order-1 order-lg-2 col-lg-5">
+                <div class="thumbnail">
+                  <div class="inner"> <img src="images/Face.png" alt="Personal Portfolio Images">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      &nbsp;
+      <!-- Start Portfolio Area -->
+      <div class="rn-portfolio-area rn-section-gap section-separator" id="portfolio">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="section-title text-center"> <span class="subtitle">Take
+                  a look</span>
+                <h2 class="title">Certifications</h2>
+              </div>
+            </div>
+          </div>
+          <div class="row row--25 mt--10 mt_md--10 mt_sm--10">
+            <!-- Start Single Portfolio -->
+            <div data-aos="fade-up" data-aos-delay="100" data-aos-once="true" class="col-lg-6 col-xl-4 col-md-6 col-12 mt--50 mt_md--30 mt_sm--30">
+              <div class="rn-portfolio" data-bs-toggle="modal" data-bs-target="#exampleModalCenter">
+                <div class="inner">
+                  <div class="thumbnail"> <a href="javascript:void(0)"> <img src="images/portfolio-0001.png"
+
+                        alt="Personal Portfolio Images"> </a> </div>
+                  <div class="content">
+                    <div class="category-info">
+                      <div class="category-list"> <a href="javascript:void(0)">CompTIA</a>
+                      </div>
+                    </div>
+                    <h4 class="title"><a href="javascript:void(0)">Security+
+                        Certified <i class="feather-arrow-up-right"></i></a></h4>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- End Single Portfolio -->&nbsp; <br>
+            <br>
+          </div>
+        </div>
+      </div>
+      <!-- End portfolio Area -->
+      <!-- Start Resume Area -->
+      <div class="rn-resume-area rn-section-gap section-separator" id="resume">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="section-title text-center"> <span class="subtitle">Deep
+                  Dive </span>
+                <h2 class="title">My Resume</h2>
+              </div>
+            </div>
+          </div>
+          <div class="row mt--45">
+            <div class="col-lg-12">
+              <ul class="rn-nav-list nav nav-tabs" id="myTabs" role="tablist">
+                <li class="nav-item"> <a class="nav-link active" id="education-tab"
+
+                    data-bs-toggle="tab" href="#education" role="tab" aria-controls="education"
+
+                    aria-selected="true">Education</a> </li>
+                <li class="nav-item"> <a class="nav-link" id="experience-tab" data-bs-toggle="tab"
+
+                    href="#experience" role="tab" aria-controls="experience" aria-selected="false">experience</a>
+                </li>
+              </ul>
+              <!-- Start Tab Content Wrapper  -->
+              <div class="rn-nav-content tab-content" id="myTabContents">
+                <!-- Start Single Tab  -->
+                <div class="tab-pane show active fade single-tab-area" id="education"
+
+                  role="tabpanel" aria-labelledby="education-tab">
+                  <div class="personal-experience-inner mt--40">
+                    <div class="row">
+                      <!-- Start Skill List Area  -->
+                      <div class="col-lg-6 col-md-12 col-12">
+                        <div class="content"> <span class="subtitle">2021 -
+                            2026</span>
+                          <h4 class="maintitle">Education</h4>
+                          <div class="experience-list">
+                            <!-- Start Single List  -->
+                            <div class="resume-single-list">
+                              <div class="inner">
+                                <div class="heading">
+                                  <div class="title">
+                                    <h4>Bachelor In Information Technology</h4>
+                                    <span>king abdulaziz university (2021 -
+                                      2026)</span> </div>
+                                  <div class="date-of-time"> <span>-/5</span> </div>
+                                </div>
+                                <p class="description">IT encompasses computer
+                                  systems, software, and networks used to manage
+                                  and utilize information. IT is essential in
+                                  areas like communication, commerce, education,
+                                  healthcare, and entertainment.</p>
+                              </div>
+                            </div>
+                            <!-- End Single List  -->
+                            <!-- Start Single List  -->
+                            <div class="resume-single-list">
+                              <div class="inner">
+                                <div class="heading">
+                                  <div class="title">
+                                    <h4> SOON</h4>
+                                    <span>College of - (# - #)</span> </div>
+                                  <div class="date-of-time"> <span>-/-</span> </div>
+                                </div>
+                                <p class="description"></p>
+                              </div>
+                            </div>
+                            <!-- End Single List  -->
+                            <!-- Start Single List  -->
+                            <!-- End Single List  --> </div>
+                        </div>
+                      </div>
+                      <!-- End Skill List Area  -->
+                      <!-- Start Skill List Area 2nd  -->
+                      <div class="col-lg-6 col-md-12 col-12 mt_md--60 mt_sm--60">
+                        <div class="content"> <span class="subtitle">2026 -
+                            2028</span>
+                          <h4 class="maintitle">In The Future</h4>
+                          <div class="experience-list">
+                            <!-- Start Single List  -->
+                            <div class="resume-single-list">
+                              <div class="inner">
+                                <div class="heading">
+                                  <div class="title">
+                                    <h4>Master In Cybersecurity (MCS)</h4>
+                                    <span> College of (2026 - 2028)</span> </div>
+                                  <div class="date-of-time"> <span>-/-</span> </div>
+                                </div>
+                                <p class="description"></p>
+                              </div>
+                            </div>
+                            <!-- End Single List  -->
+                            <!-- Start Single List  -->
+                            <!-- End Single List  -->
+                            <!-- Start Single List  -->
+                            <!-- End Single List  --> </div>
+                        </div>
+                      </div>
+                      <!-- End Skill List Area  --> </div>
+                  </div>
+                </div>
+                <!-- End Single Tab  -->
+                <!-- Start Single Tab  -->
+                <!-- End Single Tab  -->
+                <!-- Start Single Tab  -->
+                <div class="tab-pane fade" id="experience" role="tabpanel" aria-labelledby="experience-tab">
+                  <div class="personal-experience-inner mt--40">
+                    <div class="row">
+                      <!-- Start Skill List Area  -->
+                      <div class="col-lg-6 col-md-12 col-12">
+                        <div class="content"> <span class="subtitle">2024 -
+                            2024</span>
+                          <h4 class="maintitle">Experiences</h4>
+                          <div class="experience-list">
+                            <!-- Start Single List  -->
+                            <div class="resume-single-list">
+                              <div class="inner">
+                                <div class="heading">
+                                  <div class="title">
+                                    <h4>CYBERSECURITY INTERN</h4>
+                                    <span>University Of KAUST And NCA (2024, 9
+                                      Jan-13 Jan)</span> </div>
+                                  <div class="date-of-time"> <span></span> </div>
+                                </div>
+                                <p class="description">I trained at KAUST
+                                  Academy in partnership with the National
+                                  Cybersecurity Authority.</p>
+                              </div>
+                            </div>
+                            <!-- End Single List  -->
+                            <!-- Start Single List  -->
+                            <div class="resume-single-list">
+                              <div class="inner">
+                                <div class="heading">
+                                  <div class="title">
+                                    <h4> CYBERSECURITY INTERN</h4>
+                                    <span>University Of KAUST And NCA (2024, 25
+                                      Feb-28 Feb)</span> </div>
+                                  <div class="date-of-time"> <span></span> </div>
+                                </div>
+                                <p class="description"> trained at KAUST Academy
+                                  in partnership with the National Cybersecurity
+                                  Authority.</p>
+                              </div>
+                            </div>
+                            <!-- End Single List  -->
+                            <!-- Start Single List  -->
+                            <!-- End Single List  --> </div>
+                        </div>
+                      </div>
+                      <!-- End Skill List Area  -->
+                      <!-- Start Skill List Area 2nd  -->
+                      <!-- End Skill List Area  --> </div>
+                  </div>
+                </div>
+                <!-- End Single Tab  -->
+                <!-- Start Single Tab  -->
+                <!-- End Single Tab  --> </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Resume Area -->&nbsp; <br>
+      &nbsp;
+      <!-- Start Contact section -->
+      <div class="rn-contact-area rn-section-gap section-separator" id="contacts">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <div class="section-title text-center"> <span class="subtitle">Contact</span>
+                <h2 class="title">Contact Me</h2>
+              </div>
+            </div>
+          </div>
+          <div class="row mt--50 mt_md--40 mt_sm--40 mt-contact-sm">
+            <div class="col-lg-5">
+              <div class="contact-about-area">
+                <div class="thumbnail"> <img src="images/CallmeN.png" alt="contact-img">
+                </div>
+                <div class="title-area">
+                  <h4 class="title">Falcon Fuad</h4>
+                  <span>Network Admin</span> </div>
+                <div class="description">
+                  <p>I will be available for help, contact me via my accounts at
+                    any time. </p>
+                  <span class="phone">Phone: <a href="tel:+966540346817">+966540346817</a></span>
+                  <span class="mail">Email: <a href="email:foearre@gmail.com">foearre@gmail.com</a></span>
+                </div>
+              </div>
+            </div>
+            <div data-aos-delay="600" class="col-lg-7 contact-input">
+              <div class="contact-form-wrapper">
+                <div class="introduce">
+                  <form class="rnt-contact-form rwt-dynamic-form row" id="contact-form"
+
+                    method="POST" action="mail.php">
+                    <div class="col-lg-6">
+                      <div class="form-group"> <label for="contact-name">Your
+                          Name</label> <input class="form-control form-control-lg"
+
+                          name="contact-name" id="contact-name" type="text"> </div>
+                    </div>
+                    <div class="col-lg-6">
+                      <div class="form-group"> <label for="contact-phone">Phone
+                          Number</label> <input class="form-control" name="contact-phone"
+
+                          id="contact-phone" type="text"> </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="form-group"> <label for="contact-email">Email</label>
+                        <input class="form-control form-control-sm" id="contact-email"
+
+                          name="contact-email" type="email"> </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="form-group"> <label for="subject">subject</label>
+                        <input class="form-control form-control-sm" id="subject"
+
+                          name="subject" type="text"> </div>
+                    </div>
+                    <div class="col-lg-12">
+                      <div class="form-group"> <label for="contact-message">Your
+                          Message</label> <textarea name="contact-message" id="contact-message"
+
+cols="30" rows="10"></textarea> </div>
+                    </div>
+                    <div class="col-lg-12"> <button name="submit" type="submit"
+
+                        id="submit" class="rn-btn"> <span>SEND MESSAGE</span> <i
+
+                          data-feather="arrow-right"></i> </button> </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Contuct section -->
+      <!-- Modal Portfolio Body area Start -->
+      <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header"> <button type="button" class="close" data-bs-dismiss="modal"
+
+                aria-label="Close"> <span aria-hidden="true"><i data-feather="x"></i></span>
+              </button> </div>
+            <div class="modal-body">
+              <div class="row align-items-center">
+                <div class="col-lg-6">
+                  <div class="portfolio-popup-thumbnail">
+                    <div class="image"> <img class="w-100" src="images/portfolio-0001.png"
+
+                        alt="slide"> </div>
+                  </div>
+                </div>
+                <div class="col-lg-6">
+                  <div class="text-content">
+                    <h3> <span>CompTIA</span> Brief Description Of The
+                      Security+. </h3>
+                    <p class="mb--30"> The Security+ certification, from
+                      CompTIA, is a globally recognized credential in
+                      information security. It validates essential skills for IT
+                      security roles .</p>
+                    <p>It covers topics like network security, compliance,
+                      threats, and access control. Employers often require it
+                      for roles like security analyst and network administrator.</p>
+                    <div class="button-group mt--20"> <a href="#" class="rn-btn thumbs-icon">
+                        <span>LIKE THIS</span> <i data-feather="thumbs-up"></i>
+                      </a> </div>
+                  </div>
+                  <!-- End of .text-content --> </div>
+              </div>
+              <!-- End of .row Body--> </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal Portfolio area -->
+      <!-- Modal Blog Body area Start -->
+      <div class="modal fade" id="exampleModalCenters" tabindex="-1" role="dialog"
+
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-news" role="document">
+          <div class="modal-content">
+            <div class="modal-header"> <button type="button" class="close" data-bs-dismiss="modal"
+
+                aria-label="Close"> <span aria-hidden="true"><i data-feather="x"></i></span>
+              </button> </div>
+            <!-- End of .modal-header -->
+            <div class="modal-body"> <img src="images/blog-big-01.jpg" alt="news modal"
+
+                class="img-fluid modal-feat-img">
+              <div class="news-details"> <span class="date">2 May, 2021</span>
+                <h2 class="title">Digital Marketo to Their New Office.</h2>
+                <p>Nobis eleifend option congue nihil imperdiet doming id quod
+                  mazim placerat facer possim assum. Typi non habent claritatem
+                  insitam; est usus legentis in iis qui facit eorum claritatem.
+                  Investigationes demonstraverunt lectores legere me lius quod
+                  ii legunt saepius. Claritas est etiam processus dynamicus, qui
+                  sequitur mutationem consuetudium lectorum.</p>
+                <h4>Nobis eleifend option conguenes.</h4>
+                <p>Mauris tempor, orci id pellentesque convallis, massa mi
+                  congue eros, sed posuere massa nunc quis dui. Integer ornare
+                  varius mi, in vehicula orci scelerisque sed. Fusce a massa
+                  nisi. Curabitur sit amet suscipit nisl. Sed eget nisl laoreet,
+                  suscipit enim nec, viverra eros. Nunc imperdiet risus leo, in
+                  rutrum erat dignissim id.</p>
+                <p>Ut rhoncus vestibulum facilisis. Duis et lorem vitae ligula
+                  cursus venenatis. Class aptent taciti sociosqu ad litora
+                  torquent per conubia nostra, per inceptos himenaeos. Nunc
+                  vitae nisi tortor. Morbi leo nulla, posuere vel lectus a,
+                  egestas posuere lacus. Fusce eleifend hendrerit bibendum.
+                  Morbi nec efficitur ex.</p>
+                <h4>Mauris tempor, orci id pellentesque.</h4>
+                <p>Nulla non ligula vel nisi blandit egestas vel eget leo.
+                  Praesent fringilla dapibus dignissim. Pellentesque quis quam
+                  enim. Vestibulum ultrices, leo id suscipit efficitur, odio
+                  lorem rhoncus dolor, a facilisis neque mi ut ex. Quisque
+                  tempor urna a nisi pretium, a pretium massa tristique. Nullam
+                  in aliquam diam. Maecenas at nibh gravida, ornare eros non,
+                  commodo ligula. Sed efficitur sollicitudin auctor. Quisque nec
+                  imperdiet purus, in ornare odio. Quisque odio felis,
+                  vestibulum et.</p>
+              </div>
+              <!-- Comment Section Area Start -->
+              <div class="comment-inner">
+                <h3 class="title mb--40 mt--50">Leave a Reply</h3>
+                <form action="#">
+                  <div class="row">
+                    <div class="col-lg-6 col-md-12 col-12">
+                      <div class="rnform-group"><input placeholder="Name" type="text">
+                      </div>
+                      <div class="rnform-group"><input placeholder="Email" type="email">
+                      </div>
+                      <div class="rnform-group"><input placeholder="Website" type="text">
+                      </div>
+                    </div>
+                    <div class="col-lg-6 col-md-12 col-12">
+                      <div class="rnform-group"> <textarea placeholder="Comment"></textarea>
+                      </div>
+                    </div>
+                    <div class="col-lg-12"> <a class="rn-btn" href="#"><span>SUBMIT
+                          NOW</span></a> </div>
+                  </div>
+                </form>
+              </div>
+              <!-- Comment Section End --> </div>
+            <!-- End of .modal-body --> </div>
+        </div>
+      </div>
+      <!-- End Modal Blog area -->
+      <!-- Back to  top Start -->
+      <div class="backto-top">
+        <div> <i data-feather="arrow-up"></i> </div>
+      </div>
+      <!-- Back to top end -->
+      <!-- Start Right Demo  -->
+      <div class="rn-right-demo"> <button class="demo-button"> <span class="text">View
+            Courses</span> </button> </div>
+      <!-- End Right Demo  -->
+      <!-- Start Modal Area  -->
+      <div class="demo-modal-area">
+        <div class="wrapper">
+          <div class="close-icon"> <button class="demo-close-btn"><span class="feather-x"></span></button>
+          </div>
+          <div class="rn-modal-inner">
+            <div class="demo-top text-center">
+              <h4 class="title">FCIT Courses</h4>
+              <p class="subtitle"> This page includes all the courses I have
+                taken so far. </p>
+            </div>
+            <ul class="popuptab-area nav nav-tabs" id="popuptab" role="tablist">
+              <li class="nav-item"> <a class="nav-link active demo-dark" id="demodark-tab"
+
+                  data-bs-toggle="tab" href="#demodark" role="tab" aria-controls="demodark"
+
+                  aria-selected="true">General Courses</a> </li>
+              <li class="nav-item"> <a class="nav-link demo-light" id="demolight-tab"
+
+                  data-bs-toggle="tab" href="#demolight" role="tab" aria-controls="demolight"
+
+                  aria-selected="false">Elective Courses </a> </li>
+            </ul>
+            <div class="tab-content" id="popuptabContent">
+              <div class="tab-pane show active" id="demodark" role="tabpanel" aria-labelledby="demodark-tab">
+                <div class="content">
+                  <div class="row">
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner ">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View</span>
+                              </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#">Cpit-210</a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner ">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-220</a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner badge-2">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View</span>
+                              </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-240</a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner ">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-250 </a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner badge-2">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-251</a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner badge-2">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-260 </a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner badge-2">
+                          <div class="thumbnail"><a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-280 </a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-285</a></h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  --> </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="demolight" role="tabpanel" aria-labelledby="demolight-tab">
+                <div class="content">
+                  <div class="row">
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner badge-2">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#">Cpit-375</a> </h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <div class="col-lg-4 col-md-6 col-12">
+                      <div class="single-demo">
+                        <div class="inner badge-2">
+                          <div class="thumbnail"> <a href="#"> <img class="w-100"
+
+                                src="images/coming-soon.png" alt="Personal Portfolio">
+                              <span class="overlay-content"> <span class="overlay-text">View
+                                  </span> </span> </a> </div>
+                          <div class="inner">
+                            <h3 class="title"> <a href="#"> Cpit-475 </a> </h3>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  -->
+                    <!-- Start Single Content  -->
+                    <!-- End Single Content  --> </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- End Modal Area  --> </main>
+    <!-- Start Footer Area -->
+    <div class="rn-footer-area rn-section-gap section-separator">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="footer-area text-center">
+              <div class="logo"> <a href="index.html"> <img src="images/SAUDI%20ARABIA.png"
+
+                    alt="logo"> </a> </div>
+              <p class="description mt--30">© 2024. All rights reserved by <a target="_blank"
+
+                  href="https://youtu.be/qN5UzfECw8E?si=0NKYuqWfUpVhRflL">Falcon-Fuad.</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Footer Area -->
+    <!-- JS ============================================ -->
+    <script src="js/jquery.js"></script>
+    <script src="js/modernizer.min.js"></script>
+    <script src="js/feather.min.js"></script>
+    <script src="js/slick.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/text-type.js"></script>
+    <script src="js/wow.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/particles.js"></script>
+    <script src="js/jquery-one-page-nav.js"></script>
+    <!-- main JS -->
+    <script src="js/main.js"></script>
+    
+  </body>
+</html>
